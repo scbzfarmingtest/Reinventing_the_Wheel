@@ -4,11 +4,10 @@ WHATSOEVER, I hope at least I could learn something, and dream it could last til
 
 # References and  **ACKNOWLEDGMENTS**  
 ## Overall 
-* A repo link many open-source project. Many of 'wheels' are learning from this project: </br>[danistefanovic's repo: build-your-own-x](https://github.com/danistefanovic/build-your-own-x)  
-* 
+* A repo link many open-source project. Many of 'wheels' are learning from this project: </br>[danistefanovic's repo: build-your-own-x](https://github.com/danistefanovic/build-your-own-x)   
 
 
-## Specific Project  
+## Specificify refering Project  
 **NB: References and *ACKNOWLEDGMENTS* for specific projects will list again in MD files of corresponding repo. Here is the overview.
 
-1. Build a database: [Tutorial Page](https://cstack.github.io/db_tutorial/) and [Repo Page](https://github.com/cstack/db_tutorial)
+### 1. [Build a database](https://github.com/scbzfarmingtest/Reinventing_the_Wheel#specific-project/001_Build_a_database): [Tutorial Page](https://cstack.github.io/db_tutorial/) and [Repo Page](https://github.com/cstack/db_tutorial)
