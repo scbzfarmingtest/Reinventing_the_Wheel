@@ -5,5 +5,6 @@ This sub-project was open from 01/26/2021, when the author was aiming at [UNGEE]
 ## Journal
 ### 2020
 ### Jan
-* Jan.24 Decide to start this sub-project.
-* Jan.26 
+* **Jan.24:**  
+    Decide to start this sub-project.  
+* **Jan.26:**  
