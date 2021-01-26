@@ -18,4 +18,4 @@ WHATSOEVER, I hope at least I could learn something, and dream it could last til
 ## Specificify refering Project  
 **NB: References and *ACKNOWLEDGMENTS* for specific projects will list again in MD files of corresponding repo. Here is the overview.
 
-### 1. [Build a database](https://github.com/scbzfarmingtest/Reinventing_the_Wheel/001_Build_a_database): [Tutorial Page](https://cstack.github.io/db_tutorial/) and [Repo Page](https://github.com/cstack/db_tutorial)
+### 1. [Build a database](https://github.com/scbzfarmingtest/Reinventing_the_Wheel/tree/master/001_Build_a_database): [Tutorial Page](https://cstack.github.io/db_tutorial/) and [Repo Page](https://github.com/cstack/db_tutorial)
