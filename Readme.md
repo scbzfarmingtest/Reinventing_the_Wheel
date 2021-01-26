@@ -4,6 +4,7 @@ WHATSOEVER, I hope at least I could learn something, and dream it could last til
 
 # Journal
 ## 2020
+### Jan
 * Jan.24 Start the project, set up a repo and create a readme.md. Decide to start [sub-project 001](https://github.com/scbzfarmingtest/Reinventing_the_Wheel/001_Build_a_database).
 * Jan.26 
 
